@@ -21,3 +21,10 @@ Results are rendered as an MPEG‑4 video plus time‑series force plots.
 - SciPy  
 - Matplotlib  
 - FFmpeg (for writing the `.mp4`)  
+
+## Directory Layout
+├── Mesh/
+│   ├── midconf_PointsN99.txt
+│   └── midconf_TrianglesN99.txt
+├── nucleus_cytoskeleton_model_072225.ipynb       # Main simulation script
+└── README.md                                     # You are here
