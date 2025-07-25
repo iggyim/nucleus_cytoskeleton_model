@@ -23,6 +23,7 @@ Results are rendered as an MPEG‑4 video plus time‑series force plots.
 - FFmpeg (for writing the `.mp4`)  
 
 ## Directory Layout
+```text
 ├── Mesh/
 │   ├── midconf_PointsN99.txt
 │   └── midconf_TrianglesN99.txt
